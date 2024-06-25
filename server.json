@@ -23,6 +23,14 @@
       "category": "Venda",
       "price": 20,
       "createdAt": "2024-06-20T11:48:59.856Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 10,
+      "createdAt": "2024-06-20T11:48:59.856Z"
     }
   ]
 }
