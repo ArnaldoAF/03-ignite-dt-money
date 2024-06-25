@@ -31,6 +31,22 @@
       "category": "Venda",
       "price": 10,
       "createdAt": "2024-06-20T11:48:59.856Z"
+    },
+    {
+      "id": "d469",
+      "category": "Comida",
+      "description": "Batata",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2024-06-25T11:56:23.872Z"
+    },
+    {
+      "id": "ded5",
+      "category": "Comida",
+      "description": "Pastel",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-06-25T12:07:16.696Z"
     }
   ]
 }
